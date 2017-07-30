@@ -43,6 +43,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pu
 ## Authors
 
 * **Microlith57** - *Initial work* - [Microlith57](https://github.com/microlith57)
+* **Indigo Remeeus** - *Graphical Design 'or something'* - No Github Yet
+* **Norway Bob** - *'I don't know what the project's about...'* - No Github Yet
 
 See also the list of [contributors](https://github.com/OpenColonyShip/OpenColonyShip/contributors) who participated in this project.
 
