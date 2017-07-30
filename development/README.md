@@ -18,3 +18,7 @@ It would be nice to have:
     * Version control via the source folder (in development)
     * Open source
     * Editor runs on Mac/Linux too
+
+Candidates:
+* Unity3D
+* 
