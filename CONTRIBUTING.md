@@ -15,6 +15,9 @@ The following is a set of guidelines for contributing to OpenColonyShip, which a
 * [License](LICENSE.md)
 * [Software and Dependencies](SOFTWARE.md)
 * [Main README](README.md)
+* [Wiki](https://github.com/OpenColonyShip/OpenColonyShip/wiki)
+* [Bug Tracker](https://github.com/OpenColonyShip/OpenColonyShip/issues)
+* [Discord Server](https://discord.gg/XFtdUg)
 
 # Code of Conduct
 
