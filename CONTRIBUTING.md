@@ -15,6 +15,9 @@ The following is a set of guidelines for contributing to OpenColonyShip, which a
 * [License](LICENSE.md)
 * [Software and Dependencies](SOFTWARE.md)
 * [Main README](README.md)
+* [Wiki](https://github.com/OpenColonyShip/OpenColonyShip/wiki)
+* [Bug Tracker](https://github.com/OpenColonyShip/OpenColonyShip/issues)
+* [Discord Server](https://discord.gg/XFtdUg)
 
 # Code of Conduct
 
@@ -27,7 +30,7 @@ Note: Please don't file an issue to ask a question. You'll get faster results by
 If you use Discord, you can chat at the [official server](https://discord.gg/XFtdUg).
 More options are coming very soon. In the meantime, you can open an issue.
 
-# IMPORTANT - construction site
+# Construction of This Document
 
 This is being made in accordance with http://mozillascience.github.io/working-open-workshop/contributing/
 
