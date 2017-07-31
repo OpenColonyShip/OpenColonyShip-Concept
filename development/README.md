@@ -35,3 +35,5 @@ It would be nice to have:
 * Version control: [YES](https://unity.github.com/)
 * Open source: NO
 * Editor runs on Mac/Linux too: MAC ONLY (linux support is broken)
+
+# Do we have anyone opposed to Unity3D?
