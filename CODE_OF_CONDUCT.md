@@ -57,7 +57,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [the Discord channel](https://discord.gg/AEftZWS) or by emailing microlith57@gmail.com. This will be updated as soon as the project has an official email. All
+reported by contacting the project team by emailing microlith57@gmail.com. This will be updated as soon as the project has an official email. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
