@@ -34,6 +34,20 @@ It would be nice to have:
 
 * Version control: [YES](https://unity.github.com/)
 * Open source: NO
-* Editor runs on Mac/Linux too: MAC ONLY (linux support is broken)
+* Editor runs on Mac/Linux too: MAC ONLY (Linux support is broken)
 
-# Do we have anyone opposed to Unity3D?
+#### CryEngine
+* 3D support: YES
+* 2D support: YES
+* Build for Windows/Mac/Linux: YES
+* Good AI: YES
+* Good speed/reliability: NO?
+* Easy to use: YES
+* Free: YES
+* Editor runs on Windows: YES
+
+* Version control: YES
+* Open source: NO (but you can see the source)
+* Editor runs on Mac/Linux too: ???
+
+# Which engine do we want to use?
