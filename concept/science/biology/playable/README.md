@@ -1,4 +1,4 @@
-# Species
+# Playable Species
 
 ## Terran
 Terrans are very advanced humans. They left Earth due to a disaster. (probably war)
