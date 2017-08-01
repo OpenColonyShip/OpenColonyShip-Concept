@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to OpenColonyShip, which a
 * [Main README](README.md)
 * [Wiki](https://github.com/OpenColonyShip/OpenColonyShip/wiki)
 * [Bug Tracker](https://github.com/OpenColonyShip/OpenColonyShip/issues)
-* [Discord Server](https://discord.gg/XFtdUg)
+* [Discord Server](https://discord.gg/6nAJQH3)
 
 # Code of Conduct
 
@@ -27,7 +27,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 Note: Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-If you use Discord, you can chat at the [official server](https://discord.gg/XFtdUg).
+If you use Discord, you can chat at the [official server](https://discord.gg/6nAJQH3).
 More options are coming very soon. In the meantime, you can open an issue.
 
 # Construction of This Document
