@@ -34,7 +34,7 @@ This section will be added as soon as there is anything *to deploy*.
 
 OpenColonyShip is built with [engine to be confirmed].
 
-The art is done in [Blender](https://www.blender.org/) and [Gimp](https://www.gimp.org/).
+The art is done in [Blender](https://www.blender.org/), [Gimp](https://www.gimp.org/), and [Pixelmator](http://www.pixelmator.com).
 
 ## Contributing
 
