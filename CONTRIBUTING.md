@@ -29,7 +29,7 @@ Note: Please don't file an issue to ask a question. You'll get faster results by
 
 If you use Discord, you can chat at the [official server](https://discord.gg/6nAJQH3).
 More options are coming very soon. In the meantime, you can open an issue.
-
+h
 # Construction of This Document
 
 This is being made in accordance with http://mozillascience.github.io/working-open-workshop/contributing/
