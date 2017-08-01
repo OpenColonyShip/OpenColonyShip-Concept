@@ -1,5 +1,5 @@
 # The World
-The world is a 2D plane containing galaxies. It makes up the [Local Group](https://en.wikipedia.org/wiki/Local_Group).
+The world is an area containing galaxies. It makes up the [Local Group](https://en.wikipedia.org/wiki/Local_Group).
 
 There is no need to have anything outside of this group as they will never be reachable.
 
