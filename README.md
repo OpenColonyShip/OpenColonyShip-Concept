@@ -54,7 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 for the README.md template
-* StarMade for inspiration
-* Starbound for inspiration
-* Cosmoteer for inspiration
+* *[PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)* - README.md template
+* *[StarMade](http://www.star-made.org/)* - inspiration
+* *[Starbound](http://playstarbound.com/)* - inspiration
+* *[Cosmoteer](https://cosmoteer.net/)* - inspiration
+* *[2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))* - Inspiration
