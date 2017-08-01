@@ -1,0 +1,18 @@
+Hey, Sam here
+
+I don't really know how GitHub really works at the moment, so I apologise if this
+is not how I am supposed to message everyone.
+
+However, I just was wondering if it would be better to make a 2D game and write
+the engine ourselves. We could choose a programming language that everyone is
+familiar with, such as JavaScript.
+
+Also, it is the first game, so I think it would make some sense to do it 2D. It
+would make designing game art so much easier, and we could create particle effects,
+too.
+
+The other thing to consider is that by writing the game with JavaScript, we have the
+ability to make the game web-accessable.
+
+
+Hopefully I haven't upset you all!
