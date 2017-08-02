@@ -22,4 +22,4 @@ Livestock is brought along for food. A Terran example is the cow.
 
 ### Pets
 
-Livestock is brought along for company or to preserve their existance. They are only eaten in times of great hardship. A Terran example is the dog.
+Livestock is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Terran example is the dog.
