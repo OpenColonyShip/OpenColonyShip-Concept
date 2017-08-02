@@ -18,14 +18,14 @@ Non-Playable Species consist of two main categories. The actual species are docu
 
 ## Plants
 
-Plants are brought along either to preserve their existence or for food. A Terran example is wheat.
+Plants are brought along either to preserve their existence or for food. A Human example is wheat.
 
 ## Animals
 
 ### Livestock
 
-Livestock is brought along for food. A Terran example is the cow.
+Livestock is brought along for food. A Human example is the cow.
 
 ### Pets
 
-Livestock is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Terran example is the dog.
+Livestock is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
