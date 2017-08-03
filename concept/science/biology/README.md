@@ -13,7 +13,7 @@ Amoebae are blobs that can reshape into any form that originated on a watery moo
 Decapods are 10-legged hivemind creatures from a rocky planet. They left to expand their hive to other planets.
 
 ## [Species Name Singular]
-[Species Name Plural] used to near to a black hole until their planet got dangerously close and they were forced to leave.
+[Species Name Plural] used to live near to a black hole until their planet got dangerously close and they were forced to leave.
 The survivors are now endlessly exploring the most dangerous areas of space.
 
 # Non-Playable Species
