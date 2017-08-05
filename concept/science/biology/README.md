@@ -12,7 +12,7 @@ Chamearae are blueish blobs that can reshape into any form that originated on a 
 ## Decapod
 Decapods are orange-haired, 10-legged hivemind creatures from a rocky planet. They left to expand their hive to other planets.
 
-## Children of the Void
+## Child of the Void
 The (deep blue) Children of the Void used to live near to a black hole until their planet got dangerously close and they were forced to leave.
 The survivors are now endlessly exploring the most dangerous areas of space.
 
