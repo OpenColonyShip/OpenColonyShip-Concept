@@ -6,8 +6,8 @@ Humans are bipedal lifeforms from Earth. They left Earth due to a war.
 ## Drifter
 Drifters are giant gas-bags from a gas giant. They left due to their star turning into a white dwarf.
 
-## Amoeba - name change needed
-Amoebae are blobs that can reshape into any form that originated on a watery moon. They are about 1m^3. They are very curious. They left for exploratory purposes.
+## Chameara
+Chamearae are blobs that can reshape into any form that originated on a watery moon. They are about 1m^3. They are very curious. They left for exploratory purposes.
 
 ## Decapod
 Decapods are 10-legged hivemind creatures from a rocky planet. They left to expand their hive to other planets.
