@@ -40,4 +40,4 @@ Livestock is brought along for food. A Human example is the cow.
 
 ### Pets
 
-Livestock is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
+Pets is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
