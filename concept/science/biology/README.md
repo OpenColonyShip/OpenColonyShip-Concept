@@ -4,7 +4,7 @@
 Humans are bipedal lifeforms from Earth. They left Earth due to a war.
 
 ## Drifter
-Drifters are giant pink/purple gas-bags from a gas giant. They left due to their star turning into a white dwarf.
+Drifters are giant pink/purple gas-bags from a gas giant. They left due to their star turning into a white dwarf. They only developed any technology because an ancient gas-giant extraction system chose their planet, giving them a solid surface for the first time.
 
 ## Chameara
 Chamearae are blueish blobs that can reshape into any form that originated on a watery moon. They are about 1m^3. They are very curious. They left for exploratory purposes.
@@ -21,7 +21,12 @@ The Mechanicals are sentient orange/blue plated robots that were produced in the
 
 # Non-Playable Species
 
-Non-Playable Species consist of two main categories. The actual species are documented within the folder for the species that owns the spaceship on which the species live.
+## Ancient One (name change?)
+The Ancient Ones were a species that existed long before the others. They developed galaxy-wide automated factories, before dying out suddenly. They built the factory that built the Mechanicals, they built the automatic gas-extraction system that gave solid surfaces to the Drifters, and they left ruins around the Local Cluster for you to find.
+
+# Non-Sentient Species
+
+Non-Sentient species consist of two main categories. The actual species are documented within the folder for the species that owns the spaceship on which the species live.
 
 ## Plants
 
