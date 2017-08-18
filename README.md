@@ -43,16 +43,17 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pu
 ## Authors
 
 * **Microlith57** - *Initial work* - [Microlith57](https://github.com/microlith57)
-* **Indigo Remeeus** - *Graphical Design 'or something'* - No Github Yet
+* **Indigo Remeeus** - *Graphical Design 'or something'* - [TheDutchGamer](https://github.com/TheDutchGamer)
 * **Norway Bob** - *'I don't know what the project's about...'* - No Github Yet
-* **Darkmagicarp** - *Concept Art* - No Github Yet
+* **Darkmagicarp** - *Concept Art* - [Darkmagicarp](https://github.com/Darkmagicarp)
+* **Sam S** - *Web Design* - [ShortCircuitSam](https://github.com/ShortCircuitSam)
 
 See also the list of [contributors](https://github.com/OpenColonyShip/OpenColonyShip/contributors) who participated in this project.
 
 ## Testers
 
-* **The Pacman** - No Github Yet
-* **Darkmagicarp** - No Github Yet
+* **The Pacman** - [THEONEPACMAN](https://github.com/theonepacman)
+* **Darkmagicarp** - [Darkmagicarp](https://github.com/Darkmagicarp)
 
 ## License
 
