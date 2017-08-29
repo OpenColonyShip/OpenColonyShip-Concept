@@ -8,7 +8,7 @@ This section will be added soon.
 
 ### Prerequisites
 
-The prerequisites are noted in the [SOFTWARE.md](SOFTWARE.md) document, under 'Required'. You may also wish to look at the other categories in the document.
+The prerequisites for development are noted in the [SOFTWARE.md](SOFTWARE.md) document, under 'Required'. You may also wish to look at the other categories in the document.
 
 ### Installing
 
