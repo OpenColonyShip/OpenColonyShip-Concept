@@ -16,15 +16,15 @@ Decapods are orange-haired, 10-legged hivemind creatures from a rocky planet. Th
 The (deep blue) Children of the Void used to live near to a black hole until their planet got dangerously close and they were forced to leave.
 The survivors are now endlessly exploring the most dangerous areas of space.
 
-## Mechanical (name change?)
+## Mechanical *
 The Mechanicals are sentient orange/blue plated robots that were produced in the final shutdown sequence of a malfunctioning factory built by an ancient species. They are very rare as not many were built. The factory imploded soon after their creation, leaving only dust.
 
-## Industrial
+## Industrial *
 The Industrials are orange 17-legged creatures that use steampunk themed equipment. Their computers are made entirely from clockwork. They left their home planet by accident on a very fast spaceship with slow steering.
 
 # Non-Playable Species
 
-## Ancient One (name change?)
+## Ancient One *
 The Ancient Ones were a species that existed long before the others. They developed galaxy-wide automated factories, before dying out suddenly. They built the factory that built the Mechanicals, they built the automatic gas-extraction system that gave solid surfaces to the Drifters, and they left ruins around the Local Cluster for you to find.
 
 # Non-Sentient Species
@@ -44,3 +44,6 @@ Livestock is brought along for food. A Human example is the cow.
 ### Pets
 
 Pets is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
+
+
+\* Species name is only a working title
