@@ -19,6 +19,9 @@ The survivors are now endlessly exploring the most dangerous areas of space.
 ## Mechanical (name change?)
 The Mechanicals are sentient orange/blue plated robots that were produced in the final shutdown sequence of a malfunctioning factory built by an ancient species. They are very rare as not many were built. The factory imploded soon after their creation, leaving only dust.
 
+## Industrial
+The Industrials are orange 17-legged creatures that use steampunk themed equipment. Their computers are made entirely from clockwork. They left their home planet by accident on a very fast spaceship with slow steering.
+
 # Non-Playable Species
 
 ## Ancient One (name change?)
