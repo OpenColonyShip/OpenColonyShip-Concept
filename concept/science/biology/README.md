@@ -30,9 +30,11 @@ The Parasites are small beetle-like beings that can hibernate for a very long ti
 ## Ancient One *
 The Ancient Ones were a species that existed long before the others. They developed galaxy-wide automated factories, before dying out suddenly. They built the factory that built the Mechanicals, they built the automatic gas-extraction system that gave solid surfaces to the Drifters, and they left ruins around the Local Cluster for you to find.
 
-# Non-Sentient Species
+# Non-Sentient Environment Species
+Non-Sentient Environment species are those that are not brought along by the player or NPC spaceships. They could be found on planets, Ancient One biospheres, or floating in space itself. They all have ecosystems so one species is rarely found on its own.
 
-Non-Sentient species consist of two main categories. The actual species are documented within the folder for the species that owns the spaceship on which the species live.
+# Non-Sentient Ship Species
+Non-Sentient Ship species consist of two main categories. The actual species are documented within the folder for the species that owns the spaceship on which the species live.
 
 ## Plants
 Plants are brought along either to preserve their existence or for food. A Human example is wheat.
