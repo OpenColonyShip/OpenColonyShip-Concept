@@ -1,3 +1,10 @@
+# Table of Contents
+
+* [Playable Species](#Playable Species)
+* [Non-Playable Species](#Non-Playable Species)
+* [Non-Sentient Environment Species](#Non-Sentient Environment Species)
+* [Non-Sentient Ship Species](Non-Sentient Ship Species)
+
 # Playable Species
 
 ## Human
