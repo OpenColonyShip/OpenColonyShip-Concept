@@ -35,13 +35,11 @@ The Ancient Ones were a species that existed long before the others. They develo
 Non-Sentient species consist of two main categories. The actual species are documented within the folder for the species that owns the spaceship on which the species live.
 
 ## Plants
-
 Plants are brought along either to preserve their existence or for food. A Human example is wheat.
 
 ## Animals
 
 ### Livestock
-
 Livestock is brought along for food. A Human example is the cow.
 
 ### Pets
