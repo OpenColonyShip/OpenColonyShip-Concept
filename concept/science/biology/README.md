@@ -22,6 +22,9 @@ The Mechanicals are sentient orange/blue plated robots that were produced in the
 ## Industrial *
 The Industrials are orange 17-legged creatures that use steampunk themed equipment. Their computers are made entirely from clockwork. They left their home planet by accident on a very fast spaceship with slow steering.
 
+## Parasite *
+The Parasites are small beetle-like beings that can hibernate for a very long time. They form hivemind-controlled groups and infest other species' spaceships, consuming their resources. They have been in existence for at least as long as the Ancient Ones, who initially spread them from planet to planet. The Ancient Ones treat them as pets.
+
 # Non-Playable Species
 
 ## Ancient One *
