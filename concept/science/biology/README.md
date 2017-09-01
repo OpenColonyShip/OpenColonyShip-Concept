@@ -45,8 +45,6 @@ Plants are brought along either to preserve their existence or for food. A Human
 Livestock is brought along for food. A Human example is the cow.
 
 ### Pets
-
-Pets is brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
-
+Pets are brought along for company or to preserve their existence. They are only eaten in times of great hardship. A Human example is the dog.
 
 \* Species name is only a working title
