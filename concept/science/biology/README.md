@@ -3,7 +3,7 @@
 * [Playable Species](#playable-species)
 * [Non-Playable Species](#non-playable-species)
 * [Non-Sentient Environment Species](#non-sentient-environment-species)
-* [Non-Sentient Ship Species](non-sentient-ship-species)
+* [Non-Sentient Ship Species](#non-sentient-ship-species)
 
 # Playable Species
 
