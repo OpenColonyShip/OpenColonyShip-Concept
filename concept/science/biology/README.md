@@ -1,9 +1,9 @@
 # Table of Contents
 
-* [Playable Species](#Playable Species)
-* [Non-Playable Species](#Non-Playable Species)
-* [Non-Sentient Environment Species](#Non-Sentient Environment Species)
-* [Non-Sentient Ship Species](Non-Sentient Ship Species)
+* [Playable Species](#playable-species)
+* [Non-Playable Species](#non-playable-species)
+* [Non-Sentient Environment Species](#non-sentient-environment-species)
+* [Non-Sentient Ship Species](non-sentient-ship-species)
 
 # Playable Species
 
