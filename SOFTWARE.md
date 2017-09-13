@@ -8,4 +8,4 @@ Blender
 
 ### Recommended
 Github Desktop
-Atom
+Atom (or Brackets)
