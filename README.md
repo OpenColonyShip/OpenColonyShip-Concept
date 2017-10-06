@@ -66,4 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * *[Starbound](http://playstarbound.com/)* - Inspiration
 * *[Cosmoteer](https://cosmoteer.net/)* - Inspiration
 * *[2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))* - Inspiration
-* [Mid-Development Hell](https://youtu.be/PlCXlP-tlQQ) - Inspiration
+* *[Mid-Development Hell](https://youtu.be/PlCXlP-tlQQ)* - Inspiration
+* *[Good Game Design - Breath of the Wild: Open World Done Right](https://www.youtube.com/watch?v=kKUOEnF_5Es)* - Open World Tips
